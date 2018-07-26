@@ -1,9 +1,14 @@
+body{
+    background: #FFFFFF;
+    color: #000000;
+}
+
 header{
     padding-top: 60px;
 }
 
 nav{
-    background-color: #B088FF;     
+    background: #B088FF;     
 }
 
 a
@@ -14,3 +19,4 @@ a
 .header{
     color: #9955FF;
 }
+
